@@ -21,3 +21,5 @@
     * Beachte [Stackoverflow #41000552](https://stackoverflow.com/questions/41000552/spring-cloud-data-flow-task-cant-start-on-kubernetes-cluster)
 
 * [Batch Processing with Spring Batch](https://dataflow.spring.io/docs/batch-developer-guides/batch/spring-batch/)
+
+* [REST API Guide](https://docs.spring.io/spring-cloud-dataflow/docs/current/reference/htmlsingle/#api-guide)
